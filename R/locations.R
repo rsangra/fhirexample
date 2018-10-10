@@ -8,5 +8,5 @@
 #' locations(state ="NSW,suburb="sydney")
 
 locations <- function(state,suburb){
-  cat(paste("You searched for",state, suburb))
+  return(paste("You searched for",state, suburb))
 }
