@@ -1,0 +1,3 @@
+local({
+Sys.setenv(mongoUrl="mongodb://sparkadmin:PrUDrebuSeS85ruzeRe3u7espEcHApRa@mongotestserver.australiaeast.cloudapp.azure.com:27127/sparkff01stu3",mDb="sparkff01stu3",mCollection="resources")
+})
